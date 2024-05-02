@@ -1,3 +1,5 @@
+The 3D version of Madingley integrated vertical vegetation structure based on GEDI and TLS LIDAR data.
+
 # Stock parallel version of MadingleyCPP-OpemMP
 Parallel (OpenMP) C++ version of the Madingley model, includes: 
 - Minor bug fixes
